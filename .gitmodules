@@ -1,0 +1,51 @@
+[submodule "pandoc"]
+	path = pandoc
+	url = git@github.com:jgm/pandoc.git
+[submodule "openclaw"]
+	path = openclaw
+	url = git@github.com:openclaw/openclaw.git
+[submodule "ralph-tui"]
+	path = ralph-tui
+	url = git@github.com:nzpr/ralph-tui.git
+[submodule "firecrawl"]
+	path = firecrawl
+	url = https://github.com/mendableai/firecrawl.git
+[submodule "ARK-index"]
+	path = ARK-index
+	url = git@github.com:Nramsrud/ARK-index.git
+[submodule "ironclaw"]
+	path = ironclaw
+	url = ssh://git@codeberg.org/nzpr/ironclaw.git
+[submodule "model-hierarchy-skill"]
+	path = model-hierarchy-skill
+	url = git@github.com:zscole/model-hierarchy-skill.git
+[submodule "flutter"]
+	path = flutter
+	url = https://github.com/flutter/flutter.git
+[submodule "thetool"]
+	path = thetool
+	url = ssh://git@codeberg.org/nzpr/thetool.git
+[submodule "sgr-agent-core"]
+	path = sgr-agent-core
+	url = https://github.com/nzpr/sgr-agent-core
+[submodule "ROMA"]
+	path = ROMA
+	url = git@github.com:nzpr/ROMA.git
+[submodule "summarize"]
+	path = summarize
+	url = git@github.com:steipete/summarize.git
+[submodule "AI-scripts"]
+	path = AI-scripts
+	url = git@github.com:VictorTaelin/AI-scripts.git
+[submodule "openproject-docker-compose"]
+	path = openproject-docker-compose
+	url = https://github.com/opf/openproject-docker-compose
+[submodule "ticket"]
+	path = ticket
+	url = https://github.com/wedow/ticket.git
+[submodule "oh-my-opencode"]
+	path = oh-my-opencode
+	url = git@github.com:code-yeongyu/oh-my-opencode.git
+[submodule "fzf"]
+	path = fzf
+	url = git@github.com:junegunn/fzf.git
