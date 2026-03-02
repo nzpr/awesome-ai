@@ -1,0 +1,3 @@
+[submodule "roma"]
+    path = roma
+    url = git@github.com:sentient-agi/ROMA.git
