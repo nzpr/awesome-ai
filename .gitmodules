@@ -49,3 +49,18 @@
 [submodule "fzf"]
 	path = fzf
 	url = git@github.com:junegunn/fzf.git
+[submodule "AsyncReview"]
+	path = AsyncReview
+	url = https://github.com/AsyncFuncAI/AsyncReview
+[submodule "OpenPlanter"]
+	path = OpenPlanter
+	url = git@github.com:ShinMegamiBoson/OpenPlanter.git
+[submodule "automaton"]
+	path = automaton
+	url = git@github.com:Conway-Research/automaton.git
+[submodule "dspy"]
+	path = dspy
+	url = https://github.com/stanfordnlp/dspy.git
+[submodule "ClawWork"]
+	path = ClawWork
+	url = git@github.com:nzpr/ClawWork.git
