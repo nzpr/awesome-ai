@@ -64,3 +64,6 @@
 [submodule "ClawWork"]
 	path = ClawWork
 	url = git@github.com:nzpr/ClawWork.git
+[submodule "serena"]
+	path = serena
+	url = git@github.com:oraios/serena.git
