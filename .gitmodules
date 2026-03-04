@@ -67,3 +67,9 @@
 [submodule "serena"]
 	path = serena
 	url = git@github.com:oraios/serena.git
+[submodule "skills"]
+	path = skills
+	url = git@github.com:vercel-labs/skills.git
+[submodule "agent-skills"]
+	path = agent-skills
+	url = git@github.com:vercel-labs/agent-skills.git
