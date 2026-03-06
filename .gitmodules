@@ -73,3 +73,6 @@
 [submodule "agent-skills"]
 	path = agent-skills
 	url = git@github.com:vercel-labs/agent-skills.git
+[submodule "cli"]
+	path = cli
+	url = https://github.com/googleworkspace/cli
