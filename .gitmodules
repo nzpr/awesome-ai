@@ -76,3 +76,18 @@
 [submodule "cli"]
 	path = cli
 	url = https://github.com/googleworkspace/cli
+[submodule "openfang"]
+	path = openfang
+	url = https://github.com/RightNow-AI/openfang
+[submodule "noodle"]
+	path = noodle
+	url = https://github.com/poteto/noodle
+[submodule "DeepInnovator"]
+	path = DeepInnovator
+	url = https://github.com/HKUDS/DeepInnovator
+[submodule "Skill_Seekers"]
+	path = Skill_Seekers
+	url = git@github.com:yusufkaraaslan/Skill_Seekers.git
+[submodule "context-mode"]
+	path = context-mode
+	url = git@github.com:mksglu/context-mode.git
