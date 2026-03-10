@@ -91,3 +91,6 @@
 [submodule "context-mode"]
 	path = context-mode
 	url = git@github.com:mksglu/context-mode.git
+[submodule "OBLITERATUS"]
+	path = OBLITERATUS
+	url = https://github.com/elder-plinius/OBLITERATUS
